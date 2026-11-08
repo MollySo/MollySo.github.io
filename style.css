@@ -8,7 +8,8 @@ body {
   color: white;
 }
 
-nav ul {
-    align-items: center;
-    list-style-type: none;
+ol {
+  align-items: center;
+  list-style-type: none;
+  display: flex;
 }
