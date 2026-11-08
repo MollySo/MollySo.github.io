@@ -9,6 +9,7 @@ body {
 }
 
 ol {
-    align-items: center;
-    list-style-type: none;
+  align-items: center;
+  list-style-type: none;
+  display: flex;
 }
